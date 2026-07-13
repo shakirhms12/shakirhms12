@@ -71,7 +71,7 @@ I'm a **DevOps Engineer** passionate about building scalable, automated, and clo
 * Bash
 * JavaScript (Learning)
 
-
+---
 ## 📫 Let's Connect
 
 * 💼 LinkedIn: www.linkedin.com/in/shakir-hussain-malik-4894b6213
