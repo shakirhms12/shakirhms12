@@ -10,14 +10,14 @@ I'm a **DevOps Engineer** passionate about building scalable, automated, and clo
 
 ## 👨‍💻 About Me
 
-💼 DevOps Engineer with experience in enterprise infrastructure automation
-☁️ Working with **AWS, Azure, GCP & VMware**
-🏗️ Building Infrastructure as Code using **Terraform**
-⚙️ Automating deployments using **Azure DevOps, GitHub Actions & Ansible**
-☸️ Learning Kubernetes, Helm and GitOps
-🤖 Exploring Agentic AI and AI-powered infrastructure automation
-📚 B.E in CSE
-🌱 Always learning something new every day
+* 💼 DevOps Engineer with experience in enterprise infrastructure automation
+* ☁️ Working with **AWS, Azure, GCP & VMware**
+* 🏗️ Building Infrastructure as Code using **Terraform**
+* ⚙️ Automating deployments using **Azure DevOps, GitHub Actions & Ansible**
+* ☸️ Learning Kubernetes, Helm and GitOps
+* 🤖 Exploring Agentic AI and AI-powered infrastructure automation
+* 📚 B.E in CSE
+* 🌱 Always learning something new every day
 
 ---
 
