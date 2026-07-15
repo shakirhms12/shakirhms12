@@ -76,13 +76,6 @@ I'm a **DevOps Engineer** passionate about building scalable, automated, and clo
 
 * 💼 LinkedIn: www.linkedin.com/in/shakir-hussain-malik-4894b6213
 * 📧 Email: hshakir757@gmail.com
-
----
-
-## 💡 Philosophy
-
-> **"Automate everything that is repetitive, document everything that is important, and never stop learning."**
-
 ---
 
 ⭐ *Thanks for visiting my profile! Feel free to explore my repositories, and if you find something useful, don't hesitate to leave a ⭐.*
